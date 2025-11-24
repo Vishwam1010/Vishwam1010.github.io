@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vishwam Domadia
 
-### Software Developer | Tech Enthusiast
+### Software Learner | Tech Enthusiast
 
 I am a C learner and a student of Charusat CSPIT. I love building practical and scalable solutions.
 
